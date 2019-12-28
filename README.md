@@ -1,5 +1,5 @@
 # react-kotlin-js-gradle
-This project is an implementation of the "Building Web Applications with React and Kotlin/JS" 
+This project is an implementation of the "[Building Web Applications with React and Kotlin/JS](https://play.kotlinlang.org/hands-on/Building%20Web%20Applications%20with%20React%20and%20Kotlin%20JS/01_Introduction)" 
 hands-on lab using the Gradle Kotlin/JS plugin.
 
 The current documentation (December 2019) uses the 'create-react-app-kotlin-app' and will 
