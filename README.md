@@ -1,3 +1,5 @@
+# The docs have been updated to have been updated to use Kotlin/js gradle plugin, please refer to the docs ("[Building Web Applications with React and Kotlin/JS](https://play.kotlinlang.org/hands-on/Building%20Web%20Applications%20with%20React%20and%20Kotlin%20JS/01_Introduction)") to see the updated logs
+
 # react-kotlin-js-gradle
 This project is an implementation of the "[Building Web Applications with React and Kotlin/JS](https://play.kotlinlang.org/hands-on/Building%20Web%20Applications%20with%20React%20and%20Kotlin%20JS/01_Introduction)" 
 hands-on lab using the Gradle Kotlin/JS plugin.
